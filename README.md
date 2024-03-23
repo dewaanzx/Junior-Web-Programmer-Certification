@@ -59,6 +59,14 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+How To Run
+
+1. Composer Install
+2. Make new .env file or copy .env.example
+3. npm install
+4. php artisan migrate
+5. php artisan serve
+
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
